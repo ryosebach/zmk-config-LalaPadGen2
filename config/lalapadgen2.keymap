@@ -70,13 +70,13 @@
         DEFAULT_LAYER {
             display-name = "Default";
             bindings = <
-&kp Q             &kp L         &kp U        &kp COMMA     &kp PERIOD                                                 &kp F                    &kp W              &kp R        &kp Y      &kp P
-&kp E             &kp I         &kp A        &kp O         &kp MINUS                                                  &kp K                    &kp T              &kp N        &kp S      &kp H
-&mt LEFT_SHIFT Z  &kp X         &kp C        &kp V         &kp SEMICOLON                                              &kp G                    &kp D              &kp M        &kp J      &kp B
-&kp LCTRL         &kp LEFT_ALT  &trans       &kp LEFT_ALT  &mt LEFT_COMMAND LANGUAGE_2  &lt 1 SPACE  &lt 2 BACKSPACE  &mt RIGHT_COMMAND LANG1  &kp RIGHT_CONTROL  &trans       &kp RCTRL  &kp RIGHT_SHIFT
-                  &none         &kp RIGHT    &kp DOWN      &kp LEFT                     &kp UP       &kp UP           &kp LEFT                 &kp DOWN           &kp RIGHT    &none
-&mkp LCLK         &mkp RCLK     &mkp MCLK                                                                                                                         &mkp LCLK    &mkp RCLK  &mkp MCLK
-&mkp MB4          &mkp MB5      &kp LG(TAB)  &kp LG(D)     &kp LCTRL                                                  &mkp MB4                 &mkp MB5           &kp LG(TAB)  &kp LG(D)  &kp LCTRL
+&kp Q             &kp L         &kp U             &kp COMMA     &kp PERIOD                                                 &kp F                    &kp W              &kp R             &kp Y      &kp P
+&kp E             &kp I         &kp A             &kp O         &kp MINUS                                                  &kp K                    &kp T              &kp N             &kp S      &kp H
+&mt LEFT_SHIFT Z  &kp X         &kp C             &kp V         &kp SEMICOLON                                              &kp G                    &kp D              &kp M             &kp J      &kp B
+&kp LCTRL         &kp LEFT_ALT  &trans            &kp LEFT_ALT  &mt LEFT_COMMAND LANGUAGE_2  &lt 1 SPACE  &lt 2 BACKSPACE  &mt RIGHT_COMMAND LANG1  &kp RIGHT_CONTROL  &trans            &kp RCTRL  &kp RIGHT_SHIFT
+                  &none         &kp RIGHT         &kp DOWN      &kp LEFT                     &kp UP       &kp UP           &kp LEFT                 &kp DOWN           &kp RIGHT         &none
+&mkp LCLK         &mkp RCLK     &mkp MCLK                                                                                                                              &mkp LCLK         &mkp RCLK  &mkp MCLK
+&mkp MB4          &mkp MB5      &kp LG(UP_ARROW)  &none         &mkp MB5                                                   &mkp MB4                 &mkp MB5           &kp LG(UP_ARROW)  &none      &mkp MB5
             >;
         };
 
