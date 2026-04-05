@@ -76,7 +76,7 @@
 &kp LCTRL         &kp LEFT_ALT  &trans            &kp LEFT_ALT  &mt LEFT_COMMAND LANGUAGE_2  &lt 1 SPACE  &lt 2 BACKSPACE  &mt RIGHT_COMMAND LANG1  &kp RIGHT_CONTROL  &trans            &kp RCTRL  &kp RIGHT_SHIFT
                   &none         &kp RIGHT         &kp DOWN      &kp LEFT                     &kp UP       &kp UP           &kp LEFT                 &kp DOWN           &kp RIGHT         &none
 &mkp LCLK         &mkp RCLK     &mkp MCLK                                                                                                                              &mkp LCLK         &mkp RCLK  &mkp MCLK
-&mkp MB4          &mkp MB5      &kp LG(UP_ARROW)  &none         &mkp MB5                                                   &mkp MB4                 &mkp MB5           &kp LG(UP_ARROW)  &none      &mkp MB5
+&mkp MB4          &mkp MB5      &kp LC(UP_ARROW)  &none         &mkp MB3                                                   &mkp MB4                 &mkp MB5           &kp LC(UP_ARROW)  &none      &mkp MB3
             >;
         };
 
